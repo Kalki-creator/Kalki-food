@@ -1,2 +1,17 @@
-# Kalki-food
-Food
+food-delivery-app/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   ├── styles/
+│   │   └── App.jsx
+│   └── package.json
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── controllers/
+│   └── server.js
+├── .env
+└── README.md
